@@ -1,1 +1,3 @@
 second file
+
+newchanges in second file
